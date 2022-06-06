@@ -33802,7 +33802,7 @@ $S:129}
 A.Th.prototype={
 $2(e0,e1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2=null,a3="assets/images/header.png",a4="About us",a5="Greetings",a6="Certifications",a7="Products",a8="Denject",a9="LeEject",b0="Canal Clean",b1="Irrigation Needle Tips",b2="Order & Communications",b3="Direct Order Product",b4="EMIAL : BIODENT@BIOdent.co.kr",b5="TEL : 82-31-941-2884",b6="Fax : 82-31-941-1538",b7="https://www.youtube.com/watch?v=F-1QdiUUNhA",b8="Advanced Technology and Capital",b9="https://www.youtube.com/watch?v=MnJKVqKVtnw",c0="LeEject Instruction video",c1="https://www.youtube.com/watch?v=FlIlLRwErTs",c2="LeEject video Instructions",c3="https://www.youtube.com/watch?v=5yo9SkMKM2I",c4="Irrigation Probe Canal Clean 1",c5="http://files.ucloud.com/pf/D291980_6546224_693882",c6="Irrigation Probe Canal Clean 2",c7="http://biodent.co.kr/home/file/denject.pdf",c8="http://biodent.co.kr/home/file/leeject.pdf",c9="http://biodent.co.kr/home/file/canal.pdf",d0="Irrigation needle tips",d1="http://biodent.co.kr/home/file/irrigatino.pdf",d2="Prebent Needle Tips",d3="http://biodent.co.kr/home/file/prebent.pdf",d4="assets/images/footer.jpg",d5=A.aiR(e0,t.o2),d6=d5.x,d7=this.a,d8=this.b,d9=d8.a
 d8=d8.b
-if(d7<=600){s=A.rn(A.fb(a2,A.fb(a2,A.bk(A.jD(a3,a2),d8*0.45,d9),a2,a2,a2,a2,a2,a2),B.e0,a2,a2,a2,a2,d9),a2,a2)
+if(d7<=600){s=A.rn(A.fb(a2,A.fb(a2,A.bk(A.jD(a3,a2),d8*0.2,d9),a2,a2,a2,a2,a2,a2),B.e0,a2,a2,a2,a2,d9),a2,a2)
 d9/=50
 r=A.bk(a2,20,a2)
 q=A.bw(a4,a2,A.b8(a2,a2,B.j,a2,a2,a2,a2,a2,a2,a2,a2,12,a2,B.A,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2),a2,a2)
